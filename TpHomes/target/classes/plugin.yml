@@ -1,0 +1,15 @@
+name: TpHomes
+version: 1.0-SNAPSHOT
+main: me.regos.tphomes.TpHomes
+api-version: 1.16
+commands:
+  Home:
+    description: Teleport to given home
+  Homehelp:
+    description: Displays list of available commands
+  Homeremove:
+    description: Remove given home
+  Homereset:
+    description: Reset all homes
+  Homeset:
+    description: Assosiate location with a given  name

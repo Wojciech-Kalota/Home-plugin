@@ -1,0 +1,6 @@
+me\regos\tphomes\commands\HomeRemove.class
+me\regos\tphomes\commands\HomeHelp.class
+me\regos\tphomes\commands\HomeReset.class
+me\regos\tphomes\commands\HomeCommand.class
+me\regos\tphomes\commands\HomeSetCommand.class
+me\regos\tphomes\TpHomes.class
